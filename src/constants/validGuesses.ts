@@ -309,6 +309,7 @@ export const VALIDGUESSES = [
 'yeepx',
 'yeesj',
 'yeezj',
+'xiica',
 ]
 
 if (CONFIG.normalization) {

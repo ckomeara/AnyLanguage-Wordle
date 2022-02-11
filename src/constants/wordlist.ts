@@ -278,6 +278,7 @@ export const WORDS = [
 'ipeen',
 'caazi',
 'cazoj',
+'xiicc',
 'maxaa',
 'matcz',
 'ctiin',
