@@ -2,7 +2,7 @@ export const CONFIG = {
   tries: 6, // This changes how many tries you get to finish the wordle
   language: 'Seri', // This changes the display name for your language
   wordLength: 5, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
-  author: 'Carolyn O'Meara', // Put your name here so people know who made this Wordle!
+  author: "Carolyn O'Meara", // Put your name here so people know who made this Wordle!
   authorWebsite: 'https://carolynomeara.weebly.com/', // Put a link to your website or social media here
   wordListSource: 'Diccionario seri-español-inglés compilado por Stephen A. Marlett y Mary B. Moser', // Describe the source material for your words here
   wordListSourceLink: 'https://mexico.sil.org/resources/archives/42821', // Put a link to the source material for your words here
