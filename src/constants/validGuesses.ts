@@ -281,7 +281,7 @@ export const VALIDGUESSES = [
 'azaac',
 'azmii',
 'caapa',
-'caapx,'
+'caapx',
 'capii',
 'casii',
 'cocom',
