@@ -108,7 +108,7 @@ export const WORDS = [
 'azaac',
 'coozt',
 'cocaa',
-'caapx,'
+'caapx',
 'stacj',
 'caapo',
 'zoozj',
