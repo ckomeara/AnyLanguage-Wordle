@@ -59,7 +59,6 @@ export const VALIDGUESSES = [
 'hexot',
 'hohra',
 'hooro',
-'hoova',
 'iimox',
 'iiyas',
 'iizax',

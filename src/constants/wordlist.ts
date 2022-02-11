@@ -257,7 +257,6 @@ export const WORDS = [
 'cpoot',
 'cpatj',
 'quihs',
-'hoova',
 'coaap',
 'chanl',
 'quifj',
